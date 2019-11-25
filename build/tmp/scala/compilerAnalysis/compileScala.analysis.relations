@@ -1,0 +1,21 @@
+products:
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$2.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$areWeekends$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$$anonfun$wordsToLowerCase$1.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
+binary dependencies:
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/franklin-luther/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /snap/intellij-idea-community/185/jbr
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$2
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$areWeekends$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$$anonfun$wordsToLowerCase$1
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
