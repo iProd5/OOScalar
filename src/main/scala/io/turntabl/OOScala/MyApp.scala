@@ -10,5 +10,7 @@ object MyApp extends App {
 
 
   print(student isSameService student1)
+  println
+  print(student Topgrade("Physics",95.0))
 
 }

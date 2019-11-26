@@ -14,7 +14,9 @@ binary dependencies:
    src/main/scala/io/turntabl/student/TLCStudent.scala -> /home/franklin-luther/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
    src/main/scala/io/turntabl/student/TLCStudent.scala -> /snap/intellij-idea-community/185/jbr
 source dependencies:
+   src/main/scala/io/turntabl/OOScala/MyApp.scala -> src/main/scala/io/turntabl/grade/Grade.scala
    src/main/scala/io/turntabl/OOScala/MyApp.scala -> src/main/scala/io/turntabl/student/TLCStudent.scala
+   src/main/scala/io/turntabl/student/TLCStudent.scala -> src/main/scala/io/turntabl/grade/Grade.scala
 external dependencies:
 class names:
    src/main/scala/io/turntabl/OOScala/MyApp.scala -> io.turntabl.OOScala.MyApp
